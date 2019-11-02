@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Activity_form_signup_image_outline'

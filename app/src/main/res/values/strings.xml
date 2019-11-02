@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity_form_signup_image_outline</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
